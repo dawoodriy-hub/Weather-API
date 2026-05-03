@@ -1,0 +1,11 @@
+# Weather App — Requirements
+# This project uses only Python built-in libraries.
+# No external packages need to be installed.
+#
+# Python 3.10 or higher is required.
+#
+# Built-in libraries used:
+#   - urllib   (HTTP requests)
+#   - json     (JSON parsing)
+#   - datetime (date formatting)
+#   - sys      (command-line arguments)
