@@ -24,13 +24,17 @@ Built by **Dawood Riyazi** as a Python beginner project.
   ☀️  UV Index      2
 ────────────────────────────────────────────────
 
-  📅  3-Day Forecast
+  📅  7-Day Forecast
 ────────────────────────────────────────────────
   Day                    Condition         High    Low
 ────────────────────────────────────────────────
-  Saturday, 03 May       ⛅ Partly Cloudy   15°C    9°C
-  Sunday, 04 May         🌧️ Rain            13°C    8°C
-  Monday, 05 May         ☀️ Sunny / Clear   17°C   10°C
+ Sunday, 03 May: ☁️ Overcast | High 20°C | Low 13°C
+Monday, 04 May: ☁️ Overcast | High 18°C | Low 13°C
+Tuesday, 05 May: 🌦️ Light drizzle | High 17°C | Low 10°C
+Wednesday, 06 May: 🌦️ Light drizzle | High 14°C | Low 9°C
+Thursday, 07 May: ☁️ Overcast | High 15°C | Low 10°C
+Friday, 08 May: ☁️ Overcast | High 18°C | Low 9°C
+Saturday, 09 May: ☁️ Overcast | High 21°C | Low 10°C
 ────────────────────────────────────────────────
 ```
 
